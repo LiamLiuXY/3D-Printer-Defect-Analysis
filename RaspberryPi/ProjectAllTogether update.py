@@ -1,8 +1,8 @@
 # Python program to illustrate the concept
 # of threading
 # importing the threading module
-#https://api.telegram.org/bot6414681005:AAF9mqEdZfI3avx3LkuvmC6Iw7FGJxy6PnA/getMe
-#API key - 6414681005:AAF9mqEdZfI3avx3LkuvmC6Iw7FGJxy6PnA
+
+
     
 import multiprocessing as mp
 import os
